@@ -1,0 +1,168 @@
+# Orion Engine Free Use License
+
+Copyright (c) 2026 Md Rayhan Goni Farhan
+
+## 1. Definitions
+
+For the purposes of this license:
+
+"Orion Engine" means the software, source code, compiled binaries, tools, libraries, engine systems, rendering systems, editor functionality, shaders, and other original software components created and distributed by Md Rayhan Goni Farhan under the name "Orion Engine."
+
+"Creator" means Md Rayhan Goni Farhan.
+
+"User" means any person or organization that obtains, uses, copies, or distributes Orion Engine in accordance with this license.
+
+"User Content" means any creative work produced, imported, edited, rendered, simulated, or otherwise created by a User using Orion Engine. This includes, but is not limited to, games, applications, 3D models, textures, materials, animations, scenes, scripts, audio, music, images, videos, artwork, characters, stories, and other creative works.
+
+## 2. Free Use
+
+Orion Engine is provided completely free of charge.
+
+No purchase, subscription, royalty, licensing fee, or other payment to the Creator is required to use Orion Engine.
+
+You may use Orion Engine for personal, educational, research, artistic, professional, and commercial purposes.
+
+You may use Orion Engine to create and distribute games, applications, 3D artwork, animations, simulations, visualizations, renders, interactive experiences, and other works for any lawful purpose.
+
+You may sell, publish, monetize, or otherwise commercially distribute User Content created using Orion Engine without owing the Creator any payment or royalty.
+
+## 3. Ownership of User Content
+
+The Creator claims no ownership over User Content created by Users.
+
+You retain ownership of your own original creative work, subject to any rights belonging to other parties whose material you use.
+
+Using Orion Engine does not transfer ownership of your games, applications, models, artwork, animations, textures, audio, music, scripts, scenes, or other original creative works to the Creator.
+
+The Creator does not claim ownership of third-party creative works merely because they are created, edited, rendered, imported, or processed using Orion Engine.
+
+Users remain responsible for ensuring that they have the necessary rights and permissions for any third-party material they use.
+
+## 4. Attribution to Orion Engine
+
+When Orion Engine is used to create or distribute a game, application, artwork, animation, rendering, simulation, or other publicly released work, reasonable credit must be given to Orion Engine.
+
+The credit must identify the software as:
+
+"Orion Engine"
+
+and must identify its creator as:
+
+"Created by Md Rayhan Goni Farhan"
+
+The attribution may appear in a credits screen, about page, documentation, website, project page, or another reasonable location appropriate to the type of work.
+
+The required attribution does not give the Creator ownership of the User's work.
+
+## 5. Attribution and Creator Name Must Not Be Removed
+
+The original copyright notices, author information, license notices, and attribution information included with Orion Engine must not be removed, obscured, falsified, or replaced.
+
+The name "Md Rayhan Goni Farhan" must remain associated with Orion Engine.
+
+The name "Orion Engine" must not be removed from the software, its documentation, or its official attribution information in a way that falsely represents the origin of the software.
+
+Users may not claim that Orion Engine was created by another person or organization.
+
+## 6. Orion Engine Source Code and Internal Components
+
+Orion Engine's internal source code and original engine components may not be modified without prior written permission from the Creator.
+
+This includes, but is not limited to:
+
+* Core engine source code.
+* Rendering systems.
+* Editor systems.
+* Scene systems.
+* Asset systems.
+* Engine architecture and internal systems.
+* Original shaders and rendering code.
+* Original tools and utilities distributed as part of Orion Engine.
+* Embedded engine code and compiled engine components.
+* Copyright and attribution information.
+
+Users may not create, distribute, or publicly present a modified version of Orion Engine as the original Orion Engine.
+
+Users may not remove, replace, conceal, or alter the Creator's authorship information or the Orion Engine attribution.
+
+## 7. User Projects and Independent Code
+
+The restriction on modifying Orion Engine does not prevent Users from creating their own projects using Orion Engine.
+
+Users may write their own game code, application code, scripts, plugins, assets, tools, scenes, materials, models, animations, and other creative or technical content for use with Orion Engine.
+
+User-created code and content remains the property of its respective creator, subject to the licenses and rights applicable to that material.
+
+This license does not require User-created projects to be released under this license.
+
+## 8. Redistribution of Orion Engine
+
+Users may redistribute Orion Engine free of charge, provided that the distributed copy remains unmodified and includes this license and the original attribution information.
+
+Users may include an unmodified copy of Orion Engine with their own games, applications, projects, demonstrations, educational materials, or other works.
+
+Users may not sell Orion Engine itself or charge a separate licensing fee for access to Orion Engine.
+
+This restriction does not prevent Users from selling or commercially distributing their own games, applications, artwork, models, animations, or other works created using Orion Engine.
+
+## 9. Forks and Modified Versions
+
+A modified version of Orion Engine may not be distributed without prior written permission from the Creator.
+
+A User may request permission from Md Rayhan Goni Farhan to modify, fork, redistribute, or create a derivative version of Orion Engine.
+
+Any permission granted by the Creator may contain additional conditions.
+
+Without such permission, the original Orion Engine source code and internal engine components must remain unmodified.
+
+## 10. Third-Party Software and Content
+
+Orion Engine may include, depend upon, or be distributed alongside software, libraries, tools, assets, shaders, fonts, or other materials created by third parties.
+
+The Creator does not claim ownership of third-party materials.
+
+Third-party materials remain subject to their respective copyright and license terms.
+
+Nothing in this license grants permission to use third-party materials beyond the permissions granted by their respective licenses.
+
+Users are responsible for complying with applicable third-party licenses when redistributing Orion Engine or projects that contain third-party materials.
+
+## 11. No Royalties
+
+No royalties are owed to Md Rayhan Goni Farhan for works created using Orion Engine.
+
+Users may commercially exploit their own creations without paying royalties to the Creator.
+
+The Creator claims no percentage of revenue, sales, donations, subscriptions, advertising income, or other earnings generated by User Content created using Orion Engine.
+
+## 12. No Warranty
+
+ORION ENGINE IS PROVIDED "AS IS" AND WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, MD RAYHAN GONI FARHAN DISCLAIMS ALL WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, RELIABILITY, AVAILABILITY, AND PERFORMANCE.
+
+THE CREATOR SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR OTHER DAMAGES ARISING FROM OR RELATED TO THE USE, INABILITY TO USE, OR DISTRIBUTION OF ORION ENGINE, TO THE MAXIMUM EXTENT PERMITTED BY LAW.
+
+## 13. Reservation of Rights
+
+All rights in Orion Engine that are not expressly granted by this license are reserved by Md Rayhan Goni Farhan.
+
+This license does not transfer ownership of Orion Engine or its original source code to any User.
+
+The Creator may grant additional permissions to individual Users or organizations in writing.
+
+## 14. Acceptance
+
+By using, copying, or distributing Orion Engine, you acknowledge and agree to the terms of this license.
+
+If you do not agree to these terms, you may not use, copy, or distribute Orion Engine.
+
+---
+
+Orion Engine
+
+Created by Md Rayhan Goni Farhan
+
+Copyright (c) 2026 Md Rayhan Goni Farhan
+
+Free to use. No royalties. No payment required.
